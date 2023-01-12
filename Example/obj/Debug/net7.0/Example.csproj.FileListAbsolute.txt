@@ -1,0 +1,15 @@
+D:\GeekBrains\Прога\Examples\Example\bin\Debug\net7.0\Example.exe
+D:\GeekBrains\Прога\Examples\Example\bin\Debug\net7.0\Example.deps.json
+D:\GeekBrains\Прога\Examples\Example\bin\Debug\net7.0\Example.runtimeconfig.json
+D:\GeekBrains\Прога\Examples\Example\bin\Debug\net7.0\Example.dll
+D:\GeekBrains\Прога\Examples\Example\bin\Debug\net7.0\Example.pdb
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\Example.csproj.AssemblyReference.cache
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\Example.AssemblyInfoInputs.cache
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\Example.AssemblyInfo.cs
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\Example.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\Example.dll
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\refint\Example.dll
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\Example.pdb
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\Example.genruntimeconfig.cache
+D:\GeekBrains\Прога\Examples\Example\obj\Debug\net7.0\ref\Example.dll
